@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":1169,"y":581,"w":541,"h":569},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":59,"w":541,"h":569},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":595,"y":0,"w":574,"h":586},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":5,"w":574,"h":586},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":595,"y":586,"w":541,"h":567},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":0,"w":541,"h":567},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":0,"y":582,"w":595,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":65,"w":595,"h":542},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":1169,"y":0,"w":545,"h":581},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":545,"h":581},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":0,"y":1124,"w":576,"h":506},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":49,"w":576,"h":506},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":1136,"y":1150,"w":544,"h":498},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":61,"w":544,"h":498},
+	"sourceSize": {"w":708,"h":628}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":0,"y":0,"w":595,"h":582},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":25,"w":595,"h":582},
+	"sourceSize": {"w":708,"h":628}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bateaudesign-colombus.png",
+	"format": "RGBA8888",
+	"size": {"w":1714,"h":1648},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:67f028fcf8b405b848806bd5503d74a4:872c175ae49e682608178b83f3be4475:e773f4356978bb83000d83d60b5e589f$"
+}
+}

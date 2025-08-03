@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":0,"y":496,"w":442,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":81,"w":442,"h":446},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":884,"y":0,"w":432,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":37,"w":432,"h":486},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":434,"y":0,"w":450,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":21,"w":450,"h":490},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":1307,"y":486,"w":432,"h":456},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":75,"w":432,"h":456},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":1316,"y":0,"w":430,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":41,"w":430,"h":462},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":442,"y":490,"w":432,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":61,"w":432,"h":446},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":874,"y":490,"w":433,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":65,"w":433,"h":438},
+	"sourceSize": {"w":488,"h":540}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":0,"y":0,"w":434,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":17,"w":434,"h":496},
+	"sourceSize": {"w":488,"h":540}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bateaudesign23.png",
+	"format": "RGBA8888",
+	"size": {"w":1746,"h":942},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:20f704e2135c9c3e32d02154c790a8ae:ee3af15a570c2c020d815947e34e755c:6e4bbd0be756820c7b1653e92900fb42$"
+}
+}

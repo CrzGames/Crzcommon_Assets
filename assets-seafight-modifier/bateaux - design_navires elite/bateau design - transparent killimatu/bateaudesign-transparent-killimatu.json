@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":1220,"y":0,"w":580,"h":586},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":9,"w":580,"h":586},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":0,"y":647,"w":608,"h":658},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":1,"w":608,"h":658},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":1193,"y":1269,"w":595,"h":602},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":69,"w":595,"h":602},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":1193,"y":663,"w":585,"h":606},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":9,"w":585,"h":606},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":0,"y":1313,"w":628,"h":514},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":137,"w":628,"h":514},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":0,"y":0,"w":625,"h":647},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":625,"h":647},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":625,"y":0,"w":595,"h":663},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":65,"w":595,"h":663},
+	"sourceSize": {"w":684,"h":728}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":608,"y":663,"w":585,"h":650},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":65,"w":585,"h":650},
+	"sourceSize": {"w":684,"h":728}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bateaudesign-bonusmap.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":1871},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:265298508849ea18f281f937337f7010:90a021ed0e7ee0d4df731a5a10578fae:93e367163b9b4adf8559c5d0c0c8160e$"
+}
+}

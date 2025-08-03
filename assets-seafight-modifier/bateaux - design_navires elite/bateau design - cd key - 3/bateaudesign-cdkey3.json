@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":1012,"y":518,"w":491,"h":503},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":57,"w":491,"h":503},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":1503,"y":517,"w":498,"h":504},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":27,"w":498,"h":504},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":1529,"y":0,"w":490,"h":517},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":14,"w":490,"h":517},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":1030,"y":0,"w":499,"h":517},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":43,"w":499,"h":517},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":543,"y":0,"w":487,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":41,"w":487,"h":518},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":0,"y":535,"w":514,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":61,"w":514,"h":452},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":514,"y":535,"w":498,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":61,"w":498,"h":452},
+	"sourceSize": {"w":580,"h":560}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":0,"y":0,"w":543,"h":535},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":543,"h":535},
+	"sourceSize": {"w":580,"h":560}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bateaudesign-cdkey3.png",
+	"format": "RGBA8888",
+	"size": {"w":2019,"h":1021},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1d2d0af9270a35c7b8ebb67e9db278d3:f864343095e9f0423c7d414427c552b0:f7a51599f3db24ce51dadaf04cbe114f$"
+}
+}
