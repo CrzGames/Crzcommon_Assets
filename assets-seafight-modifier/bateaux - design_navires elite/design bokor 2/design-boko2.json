@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":695,"y":627,"w":676,"h":652},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":676,"h":652},
+	"sourceSize": {"w":676,"h":652}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":695,"y":1,"w":712,"h":624},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":624},
+	"sourceSize": {"w":712,"h":624}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":1,"y":651,"w":680,"h":628},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":628},
+	"sourceSize": {"w":680,"h":628}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":1,"y":1,"w":692,"h":648},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":648},
+	"sourceSize": {"w":692,"h":648}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":1,"y":1281,"w":664,"h":636},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":664,"h":636},
+	"sourceSize": {"w":664,"h":636}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":1325,"y":1281,"w":680,"h":564},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":564},
+	"sourceSize": {"w":680,"h":564}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":1373,"y":627,"w":640,"h":644},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":644},
+	"sourceSize": {"w":640,"h":644}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":667,"y":1281,"w":656,"h":636},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":656,"h":636},
+	"sourceSize": {"w":656,"h":636}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "design-boko2.png",
+	"format": "RGBA8888",
+	"size": {"w":2014,"h":1918},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:be051749782fdb1af5c5b600c546424b:47b1de8083374a36483cfbb379a71757:de20600637a3c801fce6d36399440288$"
+}
+}
