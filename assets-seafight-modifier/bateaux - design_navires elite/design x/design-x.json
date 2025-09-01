@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "ship_467_ship_01_sprite.png",
+	"frame": {"x":645,"y":1085,"w":615,"h":580},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":615,"h":580},
+	"sourceSize": {"w":616,"h":580}
+},
+{
+	"filename": "ship_467_ship_02_sprite.png",
+	"frame": {"x":666,"y":1,"w":662,"h":537},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":662,"h":537},
+	"sourceSize": {"w":668,"h":540}
+},
+{
+	"filename": "ship_467_ship_03_sprite.png",
+	"frame": {"x":1,"y":1174,"w":614,"h":538},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":614,"h":538},
+	"sourceSize": {"w":616,"h":540}
+},
+{
+	"filename": "ship_467_ship_04_sprite.png",
+	"frame": {"x":1,"y":1,"w":663,"h":591},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":663,"h":591},
+	"sourceSize": {"w":668,"h":596}
+},
+{
+	"filename": "ship_467_ship_05_sprite.png",
+	"frame": {"x":1311,"y":540,"w":591,"h":559},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":591,"h":559},
+	"sourceSize": {"w":596,"h":560}
+},
+{
+	"filename": "ship_467_ship_06_sprite.png",
+	"frame": {"x":666,"y":540,"w":643,"h":543},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":643,"h":543},
+	"sourceSize": {"w":648,"h":548}
+},
+{
+	"filename": "ship_467_ship_07_sprite.png",
+	"frame": {"x":1262,"y":1133,"w":605,"h":541},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":605,"h":541},
+	"sourceSize": {"w":608,"h":548}
+},
+{
+	"filename": "ship_467_ship_08_sprite.png",
+	"frame": {"x":1,"y":594,"w":642,"h":578},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":642,"h":578},
+	"sourceSize": {"w":644,"h":580}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "design-x.png",
+	"format": "RGBA8888",
+	"size": {"w":1871,"h":1713},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:208c1ace1202dffaffa463eac95c2aee:ae9752b44e4c91d297fee24eb92d88b3:cf498da93c940f7809fc21e3d62d9e87$"
+}
+}
