@@ -1,1 +1,1 @@
-# Seafight/SeaTyrants - Assets
+# Crzgames/Seafight/SeaTyrants - Assets
